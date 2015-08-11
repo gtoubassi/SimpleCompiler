@@ -1,0 +1,19 @@
+func sum(a, b) {
+  return a + b;
+}
+
+a = 2;
+b = 4 * (a + 3);
+
+if (b > 10) {
+    a = 10000 - b;
+}
+
+c = 0;
+d = 1;
+while (c < 10) {
+    c = c + 1;
+    d = 2 * d;
+}
+
+e = sum(c, d);

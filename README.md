@@ -13,7 +13,7 @@ any other purpose then a diversion.  The language is dead simple:
 
 To run the interpreter:
 
-  % java -classpath out org.toubassi.littlescript.interpreter.Interpreter scripts/simple.lscript
+    % java -classpath out org.toubassi.littlescript.interpreter.Interpreter scripts/simple.lscript
    
 To run the compiler:
  
